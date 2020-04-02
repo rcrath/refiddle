@@ -1,0 +1,3 @@
+#!/bin/bash
+killall node
+tiddlywiki /home/rich/Dropbox/FiddlyWiki --server 
